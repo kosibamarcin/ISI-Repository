@@ -1,0 +1,3 @@
+C:/Users/Marcin Kosiba/Desktop/ISI-Repository/cmake-build-debug/CMakeFiles/CLionProjects.dir
+C:/Users/Marcin Kosiba/Desktop/ISI-Repository/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Marcin Kosiba/Desktop/ISI-Repository/cmake-build-debug/CMakeFiles/rebuild_cache.dir
