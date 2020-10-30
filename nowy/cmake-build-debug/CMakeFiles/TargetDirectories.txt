@@ -1,3 +1,0 @@
-C:/Users/Marcin Kosiba/Desktop/ISI-Repository/nowy/cmake-build-debug/CMakeFiles/nowy.dir
-C:/Users/Marcin Kosiba/Desktop/ISI-Repository/nowy/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Marcin Kosiba/Desktop/ISI-Repository/nowy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
